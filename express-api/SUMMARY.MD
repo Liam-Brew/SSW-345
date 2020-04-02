@@ -1,0 +1,2 @@
+# Summary
+I found this lab to be very helpful for both the term project as well as any individual projects that I may undertake in the future. While I was faimilar to node.js prior to this assignment, I had no Express experience. This lab was very useful in showing me how simple and easy it was to set up, as well as how helpful it is for providing database interactions. I will definitely explore Express further and use it for my future work. 
