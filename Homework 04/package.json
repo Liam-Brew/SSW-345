@@ -2,7 +2,7 @@
   "name": "ssw345-rest-lab",
   "version": "1.0.0",
   "description": "Practice with REST concepts.",
-  "scripts":{
+  "scripts": {
     "test": "mocha --reporter spec"
   },
   "main": "index.js",
@@ -11,6 +11,7 @@
   ],
   "dependencies": {
     "chalk": "^2.4.2",
+    "dotenv": "^8.2.0",
     "parse-link-header": "^1.0.1",
     "request": "^2.88.0"
   },
